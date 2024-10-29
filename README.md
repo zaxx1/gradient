@@ -1,4 +1,4 @@
-Gradient Network Hook Script
+#Gradient Network Hook Script
 
 Project address: https://app.gradient.network/
 
