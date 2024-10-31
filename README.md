@@ -26,8 +26,8 @@ socks5://username:password@proxyhost:port
 Then start the container:
 ```bash
 docker run -d \
-  -e APP_USER=user@mail.com \
-  -e APP_PASS=password \
+  -e APP_USER=farhanmutawakkil22@gmail.com \
+  -e APP_PASS=rahasiawoi1 \
   -v ./proxies.txt:/app/proxies.txt \
   overtrue/gradient-bot
 ```
